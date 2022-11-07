@@ -1,0 +1,30 @@
+﻿@page "/Login"
+
+<PageTitle>Authorization page</PageTitle>
+
+<h1>Login</h1>
+
+<p>Here you can connect to the main server.</p>
+
+<form>
+  <label for="username">Username: </label><br>
+  <input type="text" id="username" name="fname"><br>
+  <label for="password">Password: </label><br>
+  <input type="password" id="password" name="password" minlength="8" required>
+</form>
+
+<button @onclick="tryLogin" class="loginBtn" IsToggle="false" IsPrimary="true">Login</button>
+
+@code {
+
+  private string resultMsg = "";
+  
+  private Task tryLogin()
+  {
+    if (true)
+    {
+      resultMsg = "User successfully logged in!";
+    }
+    return null;
+  }
+}

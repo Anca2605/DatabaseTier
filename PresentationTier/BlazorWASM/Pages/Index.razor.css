@@ -1,0 +1,12 @@
+.loginBtn
+{
+    border-radius: 3px;
+    boorder-color: black;
+    height: 30px;
+    width: 80px;
+}
+
+.btnText
+{
+    font-family: "Georgia", Georgia, serif;
+}

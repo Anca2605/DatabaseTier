@@ -1,0 +1,21 @@
+﻿@page "/"
+
+@inject NavigationManager _nav
+
+<PageTitle>Home page</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Good day.
+This is the Spenditorium application.
+You can try connect here:
+
+<button @onclick="@(()=>_nav.NavigateTo("/Login"))" class="loginBtn" IsToggle="false" IsPrimary="true">Login</button>
+
+@code
+{
+    private void Login()
+    {
+        throw new NotImplementedException();
+    }
+}
