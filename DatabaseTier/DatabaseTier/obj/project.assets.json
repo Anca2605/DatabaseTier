@@ -648,19 +648,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wojte\\.nuget\\packages\\": {}
+    "C:\\Users\\ancab\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojte\\RiderProjects\\DatabaseTier\\DatabaseTier\\DatabaseTier.csproj",
+      "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\SpenditoriumApplication\\DatabaseTier\\DatabaseTier\\DatabaseTier.csproj",
       "projectName": "DatabaseTier",
-      "projectPath": "C:\\Users\\wojte\\RiderProjects\\DatabaseTier\\DatabaseTier\\DatabaseTier.csproj",
-      "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wojte\\RiderProjects\\DatabaseTier\\DatabaseTier\\obj\\",
+      "projectPath": "C:\\Users\\ancab\\RiderProjects\\SpenditoriumApplication\\DatabaseTier\\DatabaseTier\\DatabaseTier.csproj",
+      "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ancab\\RiderProjects\\SpenditoriumApplication\\DatabaseTier\\DatabaseTier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wojte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -708,7 +708,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
